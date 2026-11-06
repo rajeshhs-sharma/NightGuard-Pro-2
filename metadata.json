@@ -1,0 +1,6 @@
+{
+  "name": "NightGuard Pro",
+  "description": "Security guard patrol management system with real-time check-ins, SOS emergency alerts, and supervisor command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
